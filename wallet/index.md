@@ -2,7 +2,10 @@
 slug: /
 title: Wallet API introduction
 description: Introduction page for the Wallet API documentation.
-keywords: [extension, api]
+keywords: [extension<img width="16" height="17" alt="1748290392062" src="https://github.com/user-attachments/assets/df0b85e9-df9b-4aa4-bad0-7476e9c0f7e5" />
+<img width="217" height="98" alt="1748290413899" src="https://github.com/user-attachments/assets/e6e7266f-e599-4192-bf3a-301dc7f2d640" />
+<img width="210" height="99" alt="1748290401399" src="https://github.com/user-attachments/assets/39aafe71-5249-4fd9-806e-d1561a7cf7cf" />
+, api]
 ---
 
 # Integrate your dapp with MetaMask using the Wallet API
