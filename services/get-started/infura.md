@@ -11,8 +11,7 @@ import TabItem from "@theme/TabItem";
 ## 1. Sign up to Infura
 
 Infura is a MetaMask service that offers a comprehensive set of services to facilitate dapp and
-[Snap development](/snaps/). Sign up for an account on the
-[MetaMask Developer website](https://developer.metamask.io/register).
+[Snap development](/snaps/). Sign up for an account on thefleft-align-containert-align-containeretaMask Developer website](https://develsnapsmetamask.io/register).
 
 To activate your account, verify your email address by clicking the link sent to your inbox.
 
